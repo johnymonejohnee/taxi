@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "261842184069",
+    "firebase_url": "https://taxiwala-5f6c6-default-rtdb.firebaseio.com",
+    "project_id": "taxiwala-5f6c6",
+    "storage_bucket": "taxiwala-5f6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261842184069:android:b418a43f2f09417efec6ec",
+        "android_client_info": {
+          "package_name": "com.jithin.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261842184069-suj4s8f6a2vag3237g621lvi6dik47rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1quiFkYgGgDEnGnP6JNvxO-jnPK6mFgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261842184069-suj4s8f6a2vag3237g621lvi6dik47rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261842184069:android:748e0ade9df2c6cffec6ec",
+        "android_client_info": {
+          "package_name": "com.jithin.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261842184069-suj4s8f6a2vag3237g621lvi6dik47rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1quiFkYgGgDEnGnP6JNvxO-jnPK6mFgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261842184069-suj4s8f6a2vag3237g621lvi6dik47rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
